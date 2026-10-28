@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local dataset; download PaySim separately.
+paysim.csv
+
+# Local runtime and notebook artifacts.
+.pytest_cache/
+.ipynb_checkpoints/
