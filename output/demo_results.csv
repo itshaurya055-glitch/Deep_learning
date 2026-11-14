@@ -1,0 +1,9 @@
+Detector,World,CSR,CFE,IT,F1,Precision,Recall
+XGBoost,World 1 (Known + Static),0.6,44200.0,4.2,0.16326530612244897,0.5714285714285714,0.09523809523809523
+XGBoost,World 2 (Known + PPO),1.0,60000.0,4.0,0.0,0.0,0.0
+XGBoost,World 3 (Unknown + Static),1.0,53000.0,9.0,0.0,0.0,0.0
+XGBoost,World 4 (Unknown + PPO),0.8,57000.0,4.0,0.0,0.0,0.0
+LSTM,World 1 (Known + Static),1.0,52200.0,4.2,0.0,0.0,0.0
+LSTM,World 2 (Known + PPO),1.0,60000.0,4.0,0.0,0.0,0.0
+LSTM,World 3 (Unknown + Static),1.0,53000.0,9.0,0.0,0.0,0.0
+LSTM,World 4 (Unknown + PPO),1.0,60000.0,4.0,0.0,0.0,0.0
